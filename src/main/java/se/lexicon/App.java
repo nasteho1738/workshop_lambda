@@ -43,7 +43,7 @@ public class App {
                     exercise6(message + number);
                     break;
                 case 7:
-                    exercise7(message + number);
+                    exercise7(message + number, Period);
                     break;
                 case 8:
                     exercise8(message + number);

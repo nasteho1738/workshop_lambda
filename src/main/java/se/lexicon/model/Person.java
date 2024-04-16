@@ -27,7 +27,7 @@ public class Person {
         this.id = id;
     }
 
-    public String getFirstName() {
+    public static String getFirstName() {
         return firstName;
     }
 
